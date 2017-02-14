@@ -1,0 +1,11 @@
+{
+  "name": "bot_tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }
+}
